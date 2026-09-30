@@ -1,46 +1,7 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pero is coming soon.">
-    <meta name="theme-color" content="#f3f2ed">
-    <title>Pero — Coming soon</title>
-    <link rel="icon" href="./assets/heart.svg" type="image/svg+xml">
-    <link rel="preload" href="./assets/fonts/dm-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="stylesheet" href="./styles.css">
-    <script src="./main.js" defer></script>
-  </head>
-  <body>
-    <div class="scroll-track">
-      <main class="landing">
-        <div class="atmosphere" aria-hidden="true">
-          <div class="light light--peach"></div>
-          <div class="light light--lilac"></div>
-          <div class="light light--blue"></div>
-          <div class="light light--sage"></div>
-        </div>
-        <header class="site-header">
-          <a class="home" href="./" aria-label="Pero home"><img src="./assets/pero.svg" width="82" height="41" alt=""></a>
-          <p class="status">Coming soon</p>
-        </header>
-        <div class="hero">
-          <h1><span class="sr-only">Pero </span>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="75 260 1445 713" width="1445" height="713" class="signature" aria-hidden="true" focusable="false">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="75 260 1445 713" width="1445" height="713" role="img" aria-label="PERO">
 
 <g data-wordmark="" fill="#303b35" fill-rule="evenodd" opacity="1" transform="translate(0 0)"><path d="M 98.5 694.5 H 234.5 C 284.5 694.5 316.5 726.5 316.5 779 C 316.5 829.5 284.5 862.5 234.5 862.5 H 178 V 942.5 H 98.5 Z M 178 753 V 804.5 H 209.5 C 229.5 804.5 236 794 236 777 C 236 761.5 227 753 209.5 753 Z"/><path d="M 358.5 694 H 572.5 V 753.5 H 438 V 787.5 H 553.5 V 844.5 H 438 V 882.5 H 575.5 V 942 H 358.5 Z"/><path d="M 618.5 693.5 H 769.5 C 820.5 693.5 854 723.5 854 770 C 854 801 838.5 824.5 806.5 837.5 L 861.5 941.5 H 772 L 728 851 H 698.5 V 941.5 H 618.5 Z M 698.5 750 V 796 H 747.5 C 765 796 772 786.5 772 774 C 772 758.5 765 750 747.5 750 Z"/><path d="M 1021.5 689 C 1110 689 1156.5 734.5 1156.5 816 C 1156.5 901 1110 945.5 1021.5 945.5 C 937 945.5 888.5 901 888.5 816 C 888.5 734.5 937 689 1021.5 689 Z M 1021.5 748 C 986.5 748 969.5 772.5 969.5 816 C 969.5 864.5 986.5 886 1021.5 886 C 1059 886 1075.5 864.5 1075.5 816 C 1075.5 772.5 1059 748 1021.5 748 Z"/></g>
 <g data-heart-group="" transform="translate(1267 599) scale(1) translate(-1267 -599)">
 <path d="M 1151.5 642 C 1101 622.5 1055.5 577.5 1052.5 528.5 C 1048.5 481.5 1065 450.5 1097.5 430 C 1128.5 413 1157.5 413.5 1205.5 441.5 C 1194.5 403.5 1221.5 341.5 1263.5 316.5 C 1310.5 286 1355.5 298 1384.5 309 C 1448 337 1481 410 1480.5 475.5 C 1479 554.5 1443 627.5 1390 706.5 C 1332.5 775 1256 848 1195 899.5" fill="none" stroke-linecap="round" stroke-linejoin="round" pathLength="1" data-heart="" stroke="#829b7f" stroke-width="29" stroke-dasharray="1 1" stroke-dashoffset="0" opacity="1"/>
 <path d="M 1151.5 642 C 1101 622.5 1055.5 577.5 1052.5 528.5 C 1048.5 481.5 1065 450.5 1097.5 430 C 1128.5 413 1157.5 413.5 1205.5 441.5 C 1194.5 403.5 1221.5 341.5 1263.5 316.5 C 1310.5 286 1355.5 298 1384.5 309 C 1448 337 1481 410 1480.5 475.5 C 1479 554.5 1443 627.5 1390 706.5 C 1332.5 775 1256 848 1195 899.5" fill="none" stroke-linecap="round" stroke-linejoin="round" pathLength="1" data-trace="" stroke="#dfb89b" stroke-width="9" stroke-dasharray="1 1" stroke-dashoffset="1" opacity="0"/>
 </g></svg>
-            <span class="tagline">is coming soon.</span>
-          </h1>
-        </div>
-        <footer class="site-footer">
-          <p class="footer-love">Made with love.<svg viewBox="1010 260 510 685" aria-hidden="true" focusable="false"><path d="M 1151.5 642 C 1101 622.5 1055.5 577.5 1052.5 528.5 C 1048.5 481.5 1065 450.5 1097.5 430 C 1128.5 413 1157.5 413.5 1205.5 441.5 C 1194.5 403.5 1221.5 341.5 1263.5 316.5 C 1310.5 286 1355.5 298 1384.5 309 C 1448 337 1481 410 1480.5 475.5 C 1479 554.5 1443 627.5 1390 706.5 C 1332.5 775 1256 848 1195 899.5"/></svg></p>
-          <p>See you soon.</p>
-        </footer>
-      </main>
-    </div>
-  </body>
-</html>
